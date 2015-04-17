@@ -5,6 +5,7 @@ public class HelloJavaMain
 
 	public static void main(String args[])
 	{
-		System.out.println("Hello Yeasin From Git");
+		System.out.println("Hello Yeasin From Git.");
+		System.out.println("Yeasin New Testing With Git Bash");
 	}
 }
